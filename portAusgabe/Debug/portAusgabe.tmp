@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\rene\Documents\Schule J1\Atmel\Port als Ausgabe\portAusgabe\portAusgabe\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\rene\Documents\Schule J1\Atmel\Port als Ausgabe\portAusgabe\portAusgabe\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\rene\Documents\Schule J1\Atmel\Port als Ausgabe\portAusgabe\portAusgabe\Debug\portAusgabe.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>portAusgabe.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>portAusgabe.map</FILE>
+  <FILE>portAusgabe.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <endlos><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Port als Ausgabe\portAusgabe\portAusgabe\main.asm</FILE><LINE>27</LINE></endlos>
+  <reset_belegt><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Port als Ausgabe\portAusgabe\portAusgabe\main.asm</FILE><LINE>48</LINE></reset_belegt>
+  <set_belegt><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Port als Ausgabe\portAusgabe\portAusgabe\main.asm</FILE><LINE>38</LINE></set_belegt>
+  <ausgabe><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Port als Ausgabe\portAusgabe\portAusgabe\main.asm</FILE><LINE>43</LINE></ausgabe>
+ </LABELS>
+</ASSEMBLER_INFO>
